@@ -1,4 +1,4 @@
-# Astar search implementation
+# A* search implementation
 An implementation of the A* algorithm with Clisp taking as an example the cities of Mexico.
 
 ## How to use 
